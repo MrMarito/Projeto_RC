@@ -1,0 +1,4 @@
+Joao:193.136.212.129:1234:yes:yes:yes
+Mario:193.136.212.130:4321:yes:no:yes
+Albino:193.136.212.193:9999:yes:yes:no
+Carlos:193.136.212.194:4321:yes:yes:no
